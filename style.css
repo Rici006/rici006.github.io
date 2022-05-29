@@ -9,12 +9,9 @@
   font-weight: bold;
 }
 #Project {
-  background-color: rgb(177, 229, 233);
+  background-color: #a2d9ff;
 }
 
 section {
   padding-top: 5rem;
-}
-#experienceeducation {
-  text-align: justify;
 }
